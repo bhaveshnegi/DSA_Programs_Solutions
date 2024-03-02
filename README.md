@@ -10,6 +10,5 @@ In this repository, you will find:
 <br>
 Solutions to LeetCode Problems: Solutions to a wide range of LeetCode problems, organized by topic or difficulty level.
 <br>
-<br>
 Implementation Examples: Implementation examples for various data structures and algorithms, including common ones like linked lists, trees, sorting algorithms, and more.
 
